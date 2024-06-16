@@ -1,0 +1,8 @@
+coverage==7.3.0
+django-ninja==1.1.0
+Django==5.0.6
+environ==1.0
+psycopg2==2.9.9
+pytest-mock==3.11.1
+pytest==7.4.0
+requests==2.31.0
