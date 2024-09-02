@@ -15,6 +15,10 @@
 /tests/__pycache__/
 /.coverage
 
-/ninjavi_app/__pycache__/
-/ninjavi_app/migrations/__pycache__/
-/ninjavi_app/migrations/0001_initial.py
+/db.sqlite3
+
+/apps/jwt_auth/__pycache__/
+/apps/jwt_auth/migrations/0001_initial.py
+/apps/users/migrations/0001_initial.py
+/apps/posts/migrations/0001_initial.py
+/apps/comments/migrations/0001_initial.py
